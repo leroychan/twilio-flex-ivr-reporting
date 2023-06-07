@@ -56,7 +56,7 @@ On your terminal, perform the following:
 
 ```
 // Clone Project
-git clone https://github.com/leroychan/twilio-flex-routing-redirect-call
+git clone https://github.com/leroychan/twilio-flex-ivr-reporting
 
 // Change to working directory
 cd twilio-flex-routing-redirect-call
